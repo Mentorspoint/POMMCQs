@@ -1,0 +1,369 @@
+{
+  "Principles of Management": [
+    {
+      "question": "Pervasiveness of planning indicates that planning is a:",
+      "options": ["Future Oriented activity", "It is the top management function", "Extends throughout the management functions", "First management function"],
+      "correctAnswer": 2,
+      "explanation": "Pervasiveness means that planning extends throughout the organization and across all managerial functions, not just limited to one level."
+    },
+    {
+      "question": "Which of the following is not a Key Result Area (KRA) for a business organisation?",
+      "options": ["Market standing", "Productivity", "Organizational structure", "Profitability"],
+      "correctAnswer": 2,
+      "explanation": "KRAs are measurable outcomes like market standing, productivity, and profitability; 'organizational structure' is an internal design element, not a KRA."
+    },
+    {
+      "question": "Who coined the term 'Management by Objectives' (MBO)?",
+      "options": ["Herbert Simon", "John Mee", "Peter Drucker", "Koontz"],
+      "correctAnswer": 2,
+      "explanation": "Peter Drucker introduced the term MBO in his 1954 book 'The Practice of Management'."
+    },
+    {
+      "question": "The term 'Management by Objectives (MBO)' was coined in the year:",
+      "options": ["1913", "1964", "1954", "1962"],
+      "correctAnswer": 2,
+      "explanation": "Peter Drucker coined the term in 1954 in his book 'The Practice of Management'."
+    },
+    {
+      "question": "Which technique is used when a decision is complex and the outcome of a later situation depends on the outcome of the former decision?",
+      "options": ["Game Theory", "Linear Programming", "Decision Tree", "Waiting Line Model"],
+      "correctAnswer": 2,
+      "explanation": "A decision tree helps map possible outcomes in sequence where each decision’s outcome affects the next."
+    },
+    {
+      "question": "As a person moves upward, which nature of skill loses its application in a relative manner as per Robert Katz's Management Skills approach?",
+      "options": ["Conceptual skill", "Decision-making skill", "Technical Skill", "Interpersonal skill"],
+      "correctAnswer": 2,
+      "explanation": "Technical skills are more needed at lower levels of management; higher levels require more conceptual and human skills."
+    },
+    {
+      "question": "The process of grouping organisational activities is known as:",
+      "options": ["Allocation of responsibility", "Span of Management", "Departmentation", "Reporting System"],
+      "correctAnswer": 2,
+      "explanation": "Departmentation is the grouping of related tasks into manageable units to achieve objectives."
+    },
+    {
+      "question": "Which technique attempts to bring balance between 'Cost of Idle Time' and 'Cost of Waiting Line'?",
+      "options": ["Decision Tree", "PERT", "Queuing Theory", "LPP"],
+      "correctAnswer": 2,
+      "explanation": "Queuing theory studies waiting lines to minimize both idle time costs and waiting time costs."
+    },
+    {
+      "question": "Which among the following leadership approaches was applied for the first time in the German armed forces?",
+      "options": ["Situational Theory Approach", "Trait Theory Approach", "Behavioural Theory Approach", "Charismatic Theory Approach"],
+      "correctAnswer": 1,
+      "explanation": "Trait theory, focusing on inherent qualities, was first applied in leadership contexts like the German armed forces."
+    },
+    {
+      "question": "In the context of Herzberg's Two Factor Theory, which is incorrect?",
+      "options": ["Need motivators can prevent satisfaction", "Salary and monetary rewards are hygiene factors", "Presence of hygiene factors cannot ensure satisfaction", "Job enrichment can be a need motivator"],
+      "correctAnswer": 0,
+      "explanation": "In Herzberg's theory, motivators lead to satisfaction, while hygiene factors prevent dissatisfaction; the statement that 'Need motivators can prevent satisfaction' is incorrect."
+    },
+    {
+      "question": "Which leadership approach gives due consideration to subordinates' characteristics for successful leadership?",
+      "options": ["Situational Theory Approach", "Charismatic Theory Approach", "Behavioural Theory Approach", "Trait Theory Approach"],
+      "correctAnswer": 0,
+      "explanation": "Situational theory considers the characteristics of subordinates and the situation when determining effective leadership style."
+    },
+    {
+      "question": "Who advocated for efficiency-oriented concepts for management?",
+      "options": ["F.W. Taylor", "Henry Fayol", "Peter Drucker", "Koontz"],
+      "correctAnswer": 0,
+      "explanation": "F.W. Taylor is known as the father of Scientific Management and focused on efficiency in management processes."
+    },
+    {
+      "question": "Tactical planning is also known as:",
+      "options": ["Operational planning", "Corporate planning", "Strategic planning", "Proactive planning"],
+      "correctAnswer": 0,
+      "explanation": "Tactical planning translates strategic plans into specific, short-term actions; it is often referred to as operational planning."
+    },
+    {
+      "question": "Contribution on Management Skill is made by:",
+      "options": ["Robert Katz", "Peter Drucker", "Mintzberg", "Robbins"],
+      "correctAnswer": 0,
+      "explanation": "Robert Katz identified three essential management skills: technical, human, and conceptual."
+    },
+    {
+      "question": "Which of the following elements is not included in the organising process?",
+      "options": ["Appraisal of subordinates", "Delegation of Authority", "Fixing of responsibilities", "Departmentation"],
+      "correctAnswer": 0,
+      "explanation": "Appraisal of subordinates is part of performance management, not the organising process."
+    },
+    {
+      "question": "Which of the following responsibilities is incorrect according to Herzberg’s Two Factor Theory?",
+      "options": ["Hygiene Factors can prevent Dissatisfaction", "Possibility of growth can motivate people", "Motivational Factors can lead to satisfaction", "Hygiene Factors can lead to satisfaction"],
+      "correctAnswer": 3,
+      "explanation": "Hygiene factors prevent dissatisfaction but do not create satisfaction; satisfaction comes from motivators."
+    },
+    {
+      "question": "Which need covers personal growth, advancement, power, and position as per Abraham Maslow's Need Hierarchy?",
+      "options": ["Self-actualisation Need", "Social Need", "Physiological Need", "Esteem Need"],
+      "correctAnswer": 3,
+      "explanation": "Esteem needs involve recognition, status, power, and personal growth."
+    },
+    {
+      "question": "In the context of 'Authority' and 'Power', which statement is incorrect?",
+      "options": ["Authority can never be illegitimate", "Power is wider in scope than authority", "Power may not necessarily always be legitimate", "Authority is wider in scope than power"],
+      "correctAnswer": 3,
+      "explanation": "Authority is a narrower concept than power; power can exist without legitimacy."
+    },
+    {
+      "question": "Which theory is also known as 'Great Man Theory'?",
+      "options": ["Contingency Theory", "Trait Theory", "Behavioural Theory", "Charismatic Theory"],
+      "correctAnswer": 1,
+      "explanation": "The Great Man Theory, or Trait Theory, suggests leaders are born with inherent qualities."
+    },
+    {
+      "question": "Relationship among authority, responsibility, accountability, and reporting system is:",
+      "options": ["Organisational chart", "Delegation of authority", "Span Management", "Organisation Theory"],
+      "correctAnswer": 1,
+      "explanation": "Delegation of authority involves transferring authority and responsibility along with accountability and reporting systems."
+    },
+    {
+      "question": "Which combination of functions in management process is known as complementary nature of functions?",
+      "options": ["Staffing and Directing", "Organising and Directing", "Planning and Coordinating", "Planning and Controlling"],
+      "correctAnswer": 3,
+      "explanation": "Planning and controlling are interrelated; control ensures plans are implemented and planning provides standards for control."
+    },
+    {
+      "question": "Which is not one of the roles described under Mintzberg's 'Role Approach'?",
+      "options": ["Spokesperson", "Monitor", "Speculator", "Leader"],
+      "correctAnswer": 2,
+      "explanation": "Mintzberg's managerial roles do not include 'Speculator'; the actual roles are interpersonal, informational, and decisional."
+    },
+    {
+      "question": "Who contributed the concept of 'Managerial Roles'?",
+      "options": ["Henry Fayol", "Robert Katz", "F.W. Taylor", "Mintzberg"],
+      "correctAnswer": 3,
+      "explanation": "Henry Mintzberg developed the concept of managerial roles, categorising them into three main groups."
+    },
+    {
+      "question": "Which is not a principle of Henry Fayol's 'Administrative Management'?",
+      "options": ["Unity of command", "Scalar Chain", "Equity", "Standardisation"],
+      "correctAnswer": 3,
+      "explanation": "Standardisation is part of scientific management, not one of Fayol's 14 principles."
+    },
+    {
+      "question": "Which of the following does not belong to F.W. Taylor's Scientific Management?",
+      "options": ["Specialization", "Discipline", "Standardization", "Financial incentives"],
+      "correctAnswer": 1,
+      "explanation": "Discipline is a principle of Fayol, whereas the others belong to Taylor's scientific management."
+    },
+    {
+      "question": "Legitimate right to decide about others' course of actions and behaviour is known as:",
+      "options": ["Zone of indifference", "Authority", "Accountability", "Power"],
+      "correctAnswer": 1,
+      "explanation": "Authority is the legitimate right to give orders and expect them to be obeyed."
+    },
+    {
+      "question": "Which is the correct sequence of Abraham Maslow's Need hierarchy?",
+      "options": ["Physiological - self Actualization - safety - esteem - social", "Physiological - Safety - Social - Esteem - Self Actualisation", "Safety – Esteem – Social – Physiological – Self", "Safety – Social – Physiological – Esteem – Self Actualisation"],
+      "correctAnswer": 1,
+      "explanation": "Maslow's hierarchy starts with physiological needs, followed by safety, social, esteem, and self-actualisation."
+    },
+    {
+      "question": "Relatively enduring quality of an individual is known as:",
+      "options": ["Behaviour", "Trait", "Charisma", "Skill"],
+      "correctAnswer": 1,
+      "explanation": "A trait is a consistent, enduring quality or characteristic of an individual."
+    },
+    {
+      "question": "Which is not a significant element of Transactional Model of Communication?",
+      "options": ["Channel of Communication", "Rumours", "Decoding", "Encoding"],
+      "correctAnswer": 1,
+      "explanation": "Rumours are not part of the communication model; they are a form of informal, often unreliable, information."
+    },
+    {
+      "question": "___ are the fundamental truth that establishes cause and effect relationship of a function.",
+      "options": ["Objectives", "Principles", "Rules", "Functions"],
+      "correctAnswer": 1,
+      "explanation": "Principles are fundamental truths that establish cause-and-effect relationships in management functions."
+    },
+    {
+      "question": "Who has called 'Management' as 'Personnel Management' and defined it as 'the accomplishment of results through the efforts of other people'?",
+      "options": ["Stanley Vance", "Lawrence Appley", "Koontz O'Donnell", "McFarland"],
+      "correctAnswer": 1,
+      "explanation": "Lawrence Appley described management as achieving results through the efforts of others, referring to it as personnel management."
+    },
+    {
+      "question": "___ is based on logical consistency, systematic explanation, critical evaluation and experimental analysis.",
+      "options": ["Art", "Science", "Commerce", "Literature"],
+      "correctAnswer": 1,
+      "explanation": "Science relies on logical consistency, systematic explanation, and experimental verification."
+    },
+    {
+      "question": "___ is concerned with understanding how a particular work can be accomplished and also involves applying knowledge or expertness in performance.",
+      "options": ["Science", "Art", "Profession", "Both Science and Art"],
+      "correctAnswer": 3,
+      "explanation": "Management is both a science (systematic knowledge) and an art (application of skill in practice)."
+    },
+    {
+      "question": "Which among the following characteristics of a profession is a must to become an effective and efficient manager in an organisation?",
+      "options": ["Acquisition of knowledge", "Existence of knowledge", "Professional Association", "Ethical code of conduct"],
+      "correctAnswer": 0,
+      "explanation": "Acquisition of knowledge is essential for a manager to be effective and efficient."
+    },
+    {
+      "question": "Who has identified the three types of skills required for all managers in managing the organisation properly?",
+      "options": ["Robert Owen", "Robert L. Katz", "Henry Fayol", "F.W. Taylor"],
+      "correctAnswer": 1,
+      "explanation": "Robert L. Katz identified technical, human, and conceptual skills as essential for managers."
+    },
+    {
+      "question": "According to 'Functional Foremanship', the speed boss, inspector and gang boss are entrusted with the ___ aspects of work.",
+      "options": ["Planning", "Production", "Decision Making", "Controlling"],
+      "correctAnswer": 1,
+      "explanation": "In functional foremanship, roles like speed boss, inspector, and gang boss focus on production aspects."
+    },
+    {
+      "question": "Which among the following is the first step of planning?",
+      "options": ["Establishing Objectives", "Perception of opportunities", "Identification of alternatives", "Choice of alternatives"],
+      "correctAnswer": 1,
+      "explanation": "The planning process starts with perceiving opportunities before setting objectives."
+    },
+    {
+      "question": "The principle of 'Unity of command' is contrary to Taylor's:",
+      "options": ["Job analysis", "Functional incentives", "Functional foremanship", "Maximum output"],
+      "correctAnswer": 2,
+      "explanation": "Unity of command means one boss per employee, whereas functional foremanship involves multiple supervisors."
+    },
+    {
+      "question": "___ approach of Management is heavily concentrated on 'People' aspect of management.",
+      "options": ["Contingency", "Decision theory", "Human Relations", "Social system"],
+      "correctAnswer": 2,
+      "explanation": "The human relations approach emphasises the importance of people in the workplace and interpersonal relations."
+    },
+    {
+      "question": "The main objective of ___ study is to determine and eliminate unnecessary and wasteful movements.",
+      "options": ["Time study", "Fatigue study", "Motion study", "Method study"],
+      "correctAnswer": 2,
+      "explanation": "Motion study aims to improve efficiency by eliminating unnecessary movements."
+    },
+    {
+      "question": "'General Management' skills are also known as ___ Skills.",
+      "options": ["Technical", "Human Relations", "Conceptual", "Empirical"],
+      "correctAnswer": 2,
+      "explanation": "Conceptual skills are often referred to as general management skills, involving the ability to see the organisation as a whole."
+    },
+    {
+      "question": "Which among the following statement is correct?",
+      "options": [
+        "Programmed decisions are known as strategic decisions.",
+        "Conceptual skills are required to take non-programmed decisions.",
+        "Only internal environment is analysed to take non-programmed decision.",
+        "Identify the correct statement from the statement given below:"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Non-programmed decisions are unique and require conceptual skills to address complex and unstructured problems."
+    },
+    {
+      "question": "Identify the correct statement from the statement given below:",
+      "options": [
+        "Technical skill deals with ideas, human skill deals with people and conceptual skill deals with things.",
+        "Technical skill deals with ideas, human skill deals with people and conceptual skill deals with things.",
+        "Conceptual skill deals with ideas, human skill deals with people and technical skill deals with things.",
+        "Technical skill deals with ideas, conceptual skill deals with people and human skill deals with things."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Conceptual skills involve dealing with ideas, human skills with people, and technical skills with specific tasks or things."
+    },
+    {
+      "question": "'KRA' in MBO stands for ___",
+      "options": ["Key Resource Areas", "Key Result Areas", "Key Resource Activity", "Key Result Activity"],
+      "correctAnswer": 1,
+      "explanation": "KRA stands for Key Result Areas, representing critical areas where results must be achieved."
+    },
+    {
+      "question": "___ is the right of a superior to give orders to subordinates and get these orders obeyed.",
+      "options": ["Authority", "Accountability", "Responsibility", "Reliability"],
+      "correctAnswer": 0,
+      "explanation": "Authority is the legitimate right to issue orders and expect compliance."
+    },
+    {
+      "question": "Authority and Responsibility are ___ to each other.",
+      "options": ["Complementary", "Conflicting", "Supplementary", "Contrary"],
+      "correctAnswer": 0,
+      "explanation": "Authority and responsibility must go hand in hand; authority without responsibility or vice versa is ineffective."
+    },
+    {
+      "question": "Who has developed 'Need Hierarchy Theory' to explain Human Behaviour in an Organisation?",
+      "options": ["Abraham Maslow", "Douglas McGregor", "Rensis Likert", "Herzberg"],
+      "correctAnswer": 0,
+      "explanation": "Abraham Maslow developed the Need Hierarchy Theory, outlining five levels of human needs."
+    },
+    {
+      "question": "'Motivation-Hygiene theory' was developed by ___",
+      "options": ["Herzberg", "McGregor", "Likert", "Maslow"],
+      "correctAnswer": 0,
+      "explanation": "Frederick Herzberg proposed the Motivation-Hygiene Theory, distinguishing between factors that cause satisfaction and dissatisfaction."
+    },
+    {
+      "question": "___ theory says that leadership qualities are not completely inborn, but can also be acquired through learning and experience.",
+      "options": ["Trait", "Charismatic", "Behavioural", "Situational"],
+      "correctAnswer": 2,
+      "explanation": "The behavioural theory suggests leadership skills can be learned and are not solely innate."
+    },
+    {
+      "question": "Which Organisational structure is known as Scalar, Military or Vertical Organisation structure?",
+      "options": ["Line", "Line and Staff", "Functional", "Divisional"],
+      "correctAnswer": 0,
+      "explanation": "The line organisational structure is also referred to as scalar, military, or vertical structure."
+    },
+    {
+      "question": "Which among the following is not the demerit of Line Organisational Structure?",
+      "options": ["Specialisation of activities", "Lack of conceptual thinking", "Autocratic approach", "Problem in co-ordination"],
+      "correctAnswer": 0,
+      "explanation": "Specialisation of activities is actually a merit of certain organisational structures, not a demerit of line organisation."
+    },
+    {
+      "question": "According to Trait theory of Leadership, which among the following comes under innate qualities?",
+      "options": ["Intelligence", "Emotional stability", "Empathy", "Objectivity"],
+      "correctAnswer": 0,
+      "explanation": "Trait theory states that certain qualities like intelligence are inborn and contribute to effective leadership."
+    },
+    {
+      "question": "Inability to accept subordinate's ideas, display emotional immaturity and poor human relations are the examples of behaviour.",
+      "options": ["Dysfunctional", "Effective", "Serviceable", "Functional"],
+      "correctAnswer": 0,
+      "explanation": "Such behaviours are considered dysfunctional as they hinder effective management and teamwork."
+    },
+    {
+      "question": "___ organisational structure can result into high degree of specialization as one unit or department is concerned with only one aspect of total activities.",
+      "options": ["Line", "Matrix", "Divisional", "Functional"],
+      "correctAnswer": 3,
+      "explanation": "In a functional structure, departments focus on a single aspect of organisational activities, leading to specialisation."
+    },
+    {
+      "question": "Which among the following is the main disadvantage of functional structure?",
+      "options": ["Promotes professional growth", "High degree of specialization", "Brings order and clarity in organisation", "Responsibility cannot be fixed"],
+      "correctAnswer": 3,
+      "explanation": "In functional structures, fixing responsibility can be difficult as work may require coordination across departments."
+    },
+    {
+      "question": "Legitimate right to decide about others' course of actions and behaviour is known as:",
+      "options": ["Zone of indifference", "Power", "Accountability", "Authority"],
+      "correctAnswer": 3,
+      "explanation": "Authority refers to the legitimate right to make decisions and expect compliance."
+    },
+    {
+      "question": "___ need is the base of the need hierarchy because they tend to have the highest strength until they are reasonably satisfied individual cannot move next higher level in hierarchy.",
+      "options": ["Security", "Social", "Esteem", "Physiological"],
+      "correctAnswer": 3,
+      "explanation": "Physiological needs are the foundation in Maslow's hierarchy as they are essential for survival."
+    },
+    {
+      "question": "According to Herzberg, which among the following comes under the Hygiene factors?",
+      "options": ["Work itself", "Possibility of growth", "Responsibility", "Salary"],
+      "correctAnswer": 3,
+      "explanation": "Salary is a hygiene factor; it prevents dissatisfaction but does not create satisfaction."
+    },
+    {
+      "question": "Which approach to leadership is quite popular between 1930 and 1950?",
+      "options": ["Charismatic Theory", "Situational Theory", "Behavioural Theory", "Trait Theory"],
+      "correctAnswer": 3,
+      "explanation": "Trait theory was the dominant approach to leadership during this period."
+    }
+  ]
+}
+

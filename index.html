@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MCQ Practice Test</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🎓 MCQ Practice Test</h1>
+      <p>Master your subjects with interactive practice tests By Team MentorsPoint</p>
+    </header>
+
+    <!-- Subject Selection -->
+    <section id="subject-selection">
+      <h2>Choose Your Subject</h2>
+      <p style="color: #666; margin-bottom: 20px;">Select a subject to begin your practice test</p>
+      <div id="loading-indicator" class="loading-message" style="display: none;">
+        Loading questions... Please wait.
+      </div>
+      <div id="error-indicator" class="error-message" style="display: none;">
+        Error loading questions. Please check if the questions.json file is available.
+      </div>
+      <div class="subject-grid" id="subject-grid">
+        <button class="subject-btn" onclick="startTest('Principles of Management')">📚 Principles Of Management</button>
+      </div>
+    </section>
+
+    <!-- MCQ Test Section -->
+    <section id="mcq-test">
+      <div class="test-header">
+        <h2 id="subject-title"></h2>
+        <p id="question-counter">Question 1 of 25</p>
+        <div class="progress-bar">
+          <div class="progress-fill" id="progress-fill"></div>
+        </div>
+      </div>
+
+      <div class="mcq-card" id="mcq-card">
+        <p id="question"></p>
+        <div id="options"></div>
+      </div>
+
+      <div class="mcq-buttons">
+        <button id="prev-btn" class="btn btn-secondary" onclick="previousQuestion()" disabled>← Previous</button>
+        <div style="display: flex; gap: 10px;">
+          <button id="next-btn" class="btn btn-primary" onclick="nextQuestion()" disabled>Next →</button>
+          <button id="finish-btn" class="btn btn-success" onclick="finishTest()" style="display: none;">Finish Test</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Results Section -->
+    <section id="results">
+      <h2>Test Results</h2>
+      <div class="score-circle" id="score-circle">
+        <span id="score-percentage">0%</span>
+      </div>
+      <h3 id="motivational-message"></h3>
+      
+      <div class="results-stats">
+        <div class="stat-card">
+          <div class="stat-number" id="total-questions">0</div>
+          <div class="stat-label">Total Questions</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number" id="correct-answers">0</div>
+          <div class="stat-label">Correct Answers</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number" id="wrong-answers">0</div>
+          <div class="stat-label">Wrong Answers</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number" id="final-percentage">0%</div>
+          <div class="stat-label">Final Score</div>
+        </div>
+      </div>
+
+      <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+        <button class="btn btn-primary" onclick="reviewAnswers()">📝 Review Answers</button>
+        <button class="btn btn-success" onclick="retakeTest()">🔄 Retake Test</button>
+        <button class="btn btn-secondary" onclick="backToSubjects()">🏠 Back to Subjects</button>
+      </div>
+    </section>
+
+    <!-- Review Section -->
+    <section id="review">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px;">
+        <h2>Review Your Answers</h2>
+        <button class="btn btn-secondary" onclick="backToResults()">← Back to Results</button>
+      </div>
+      <div id="review-content"></div>
+    </section>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
